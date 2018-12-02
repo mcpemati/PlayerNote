@@ -1,0 +1,14 @@
+name: PlayerNote
+main: PlayerNote\main
+version: 1.0.0
+api:
+  - 3.0.0
+  - 4.0.0
+  - 4.0.3
+author: まっちだよ～(｡･ω･｡)
+
+commands:
+  pn:
+    description: プレイヤーノート
+    usege: pn
+    permission: true
